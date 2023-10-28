@@ -1,6 +1,9 @@
 # waypoints_n_chill
 
-A new Flutter project by Shane Barita.
+A new Flutter project by Shane Louis A. Barita.
+Program & Year: BSIT - 3
+Assigned API: https://restcountries.com/#endpoints-all
+Github Repo:https://github.com/baristabarita/waypointsnchill.git
 
 ## Getting Started
 
